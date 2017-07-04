@@ -1,0 +1,23 @@
+{
+  "name": "powerdns_api",
+  "version": "1.0.0",
+  "description": "Manage the PowerDNS API from Node.js",
+  "keywords": [
+    "powerdns",
+    "dns",
+    "pdns"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint lib/* examples/*",
+    "test": "node examples/examples.js"
+  },
+  "author": "Frank Petrilli <frank@petril.li>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "async": "^2.5.0"
+  }
+}
