@@ -1,6 +1,6 @@
 {
   "name": "powerdns_api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manage the PowerDNS API from Node.js",
   "keywords": [
     "powerdns",
