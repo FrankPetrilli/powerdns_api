@@ -7,6 +7,10 @@
     "dns",
     "pdns"
   ],
+  "repository": { 
+      "type": "git",
+      "url": "https://github.com/FrankPetrilli/powerdns_api"
+  },
   "main": "index.js",
   "scripts": {
     "lint": "eslint lib/* examples/*",
